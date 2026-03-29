@@ -46,13 +46,12 @@ digital-literacy-project/
 │   └── form-link.txt
 │
 ├── task-4-email-etiquette/
-│   ├── email1.txt
-│   ├── email2.txt
-│   └── social-media-checklist.md
+│   ├── Assignment and Internship email etiquette
+│   └── social-media-checklist.txt
 │
 ├── task-5-cybercrime/
-│   ├── casestudy.md
-│   └── prevention-checklist.md
+│   ├── casestudy.pdf
+│   └── prevention-checklist.txt
 ```
 
 ---
